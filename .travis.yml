@@ -1,4 +1,3 @@
-sudo: enabled
 services:
     - docker
 before_script:
